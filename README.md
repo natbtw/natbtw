@@ -1,1 +1,1 @@
-Yo I'm Blitz, a 14 year old coder and soon to be gamedev. I mainly mess with Haxeflixeland sometimes unity (also I'm learning C!) but yeah that's all.
+Yo I'm Blitz, a 14 year old coder and soon to be gamedev. I mainly mess with Haxeflixeland sometimes unity (also I'm learning C, I plan to learn UE4 or UE5 before the end of this year or early next year) but yeah that's all.
