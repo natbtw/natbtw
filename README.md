@@ -2,4 +2,4 @@ Yo I'm Blitz, a 14 year old coder and soon to be gamedev. I mainly mess with Hax
 
 Discord to contact me: blitzdotcs
 
-Website soon prob
+Website exists now
