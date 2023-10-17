@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Ultimate flash Sonic</title>
+</head>
+<body>
+    <div id="container"></div>
+    <script>
+        window.RufflePlayer = window.RufflePlayer || {};
+
+        window.addEventListener("DOMContentLoaded", () => {
+            let ruffle = window.RufflePlayer.newest();
+            let player = ruffle.createPlayer();
+            player.style.width = "1280px";
+            player.style.height = "720px";
+            let container = document.getElementById("container");
+            container.appendChild(player);
+            player.load("game/UFS.swf");
+        });
+    </script>
+    <script src="rufflesrc/ruffle.js"></script>
+</body>
+</html>
