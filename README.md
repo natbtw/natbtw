@@ -1,8 +1,8 @@
 Yo I'm Blitz, a 14 year old coder and soon to be gamedev. I mainly mess with Haxeflixel and sometimes unity but yeah that's all. (Paused on doing godot and c/c++ stuff)
 
-Discord to contact me: funkincrew
+Discord to contact me: blitzeroni_
 
-Website exists now
+Website Updates:
 
 Update 10/17/2023 9:30AM: Added flash games
 
