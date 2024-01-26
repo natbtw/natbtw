@@ -1,4 +1,4 @@
-Yo I'm Blitz, a 14 year old coder and soon to be gamedev. I mainly mess with Haxeflixel and sometimes unity but yeah that's all. (Paused on doing godot and c/c++ stuff)
+Yo I'm Blitz, a 15 year old coder and soon to be gamedev. I mainly mess with Haxeflixel and sometimes unity but yeah that's all. (Paused on doing godot and c/c++ stuff)
 
 Discord to contact me: blitzeroni_
 
